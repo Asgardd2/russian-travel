@@ -1,10 +1,13 @@
 .place {
     display: grid;
+    margin: 0 0 29px 0;
+    
+
 }
 
 @media screen and (min-width: 768px) {
     .place {
-        grid-template-columns: 340px 1fr;
+        grid-template-columns: 340px 352px;
         row-gap: 48px;
         column-gap: 28px;
         margin-bottom: 73px;
