@@ -15,10 +15,6 @@
 @media screen and (min-width: 1024px) {
     .place__text {
         margin: 0;
+        font-size: 18px;
 }
-
-@media place__text and (min-width: 1280px) {
-    .places {
-        margin: 0;
-    }
 }

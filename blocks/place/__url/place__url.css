@@ -2,3 +2,7 @@
     text-decoration: underline;
     color: #ffffff;
 }
+
+.place__url:hover{
+    opacity: 0.8;
+}

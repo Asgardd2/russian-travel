@@ -6,5 +6,6 @@
   letter-spacing: 0.15em;
   padding: 8px 146px 0 16px;
   margin: 0;
+  max-width: 160px; 
 }
 
