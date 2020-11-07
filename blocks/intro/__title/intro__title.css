@@ -14,17 +14,3 @@
         line-height: 107%;
     }
 }
-
-@media screen and (min-width: 1024px) {
-    .intro__title {
-        font-size: 54px;
-        line-height: 107%;
-    }
-}
-
-@media screen and (min-width: 1280px) {
-    .intintro__titlero {
-        font-size: 54px;
-        line-height: 107%;
-    }
-}

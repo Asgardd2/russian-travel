@@ -1,6 +1,7 @@
 .place__subtitle {
   font-weight: 400;
   font-size: 12px;
-  letter-spacing: 20%;
+  letter-spacing: 0.2em;
   color: #AAAAAA;
+  margin: 0 0 12px 0;
 }

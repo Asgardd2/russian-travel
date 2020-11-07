@@ -1,11 +1,10 @@
 .place__title {
-    
-    font-weight: 900;
+    padding: 0;
     font-size: 32px;
     line-height: 109%;
     text-align: left;
     max-width: 327px;
-    margin: 0 16px 32px 16px;
+    margin: 0 16px 0 16px;
 }
 
 @media screen and (min-width: 768px) {
@@ -17,13 +16,8 @@
 }
 
 @media screen and (min-width: 1024px) {
-    .places {
-        padding: 92px 48px 0 48px;
-    }
-}
-
-@media screen and (min-width: 1280px) {
-    .places {
-        padding: 92px 148px 0 148px;
+    .place__title {
+        font-size: 72px;
+        line-height: 106%;
     }
 }

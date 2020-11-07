@@ -3,13 +3,7 @@
 }
 
 @media screen and (min-width: 1024px) {
-    .header {
-        padding: 28px 48px 0 48px;
-    }
-}
-
-@media screen and (min-width: 1280px) {
-    .header {
-        padding: 28px 48px 0 48px;
+    .lead__image {
+        padding: 28px 0 0 0;
     }
 }
